@@ -1,0 +1,25 @@
+{
+  "name": "ifi6016-kt3-api",
+  "version": "1.0.0",
+  "description": "ifi6016-kt3-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErikEnden/ifi6016-kt3-api.git"
+  },
+  "author": "Erik Enden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErikEnden/ifi6016-kt3-api/issues"
+  },
+  "homepage": "https://github.com/ErikEnden/ifi6016-kt3-api#readme",
+  "dependencies": {
+    "eslint": "^5.10.0",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "mssql": "^4.3.0"
+  }
+}
